@@ -1,7 +1,7 @@
 # CV_Assignment
 4학년 1학기 <컴퓨터비전> 수업에서 진행한 Assignment
 
-## Assignment1
+## Assignment1 (Matlab)
 몇 가지 Image Tranformation과 Image Color 에 대해 과제를 수행하였다.
 ### Image Transformation
 1. Scaling
@@ -14,7 +14,7 @@
 2. YCbCr
 3. HSI
 
-## Assignment2
+## Assignment2 (Matlab)
 Image Noise에 관하여 과제를 수행하였다.
 
 -> Mean filtering, Unsharp Masking, Contrast Stretching, Gamma Correction, Histogram Equalization, Image upsampling, PSNR 구현
